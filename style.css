@@ -6,10 +6,9 @@ body {
 .titre {
   font-family: 'Sigmar One', cursive;
   font-size:16px;
-  color: #BBACAC;
+  color: #FBB117;
   height:10vh;
   width:23vw;
-  border:1px solid green;
   position:absolute;
   margin-top:-3.8vh;
 }
