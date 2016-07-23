@@ -3,3 +3,27 @@ body {
   weight:100vw;
   background-image:url(www.png);
 }
+.titre {
+  font-family: 'Sigmar One', cursive;
+  font-size:1em;
+  color: #BBACAC;
+  height:10vh;
+  width:23vw;
+  border:1px solid green;
+  position:absolute;
+  margin-top:-3.8vh;
+}
+.recherche {
+  margin-left: 23vw;
+  width:75vw;
+  height:5vh;
+  border-radius: 10px;
+  position:absolute;
+  background-color: rgba(12, 13, 12, 0.4);
+}
+.Actualite {
+  height:15vh;
+  width:8vw;
+  border: 1px solid black;
+  position:absolute;
+}
