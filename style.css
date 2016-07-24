@@ -1,20 +1,20 @@
 body {
   height:100vh;
-  weight:100vw;
+  width:100vw;
   background-image:url(www.png);
 }
 .titre {
   font-family: 'Sigmar One', cursive;
-  font-size:16px;
+  font-size:1.2em;
   color: #FBB117;
   height:10vh;
   width:23vw;
   position:absolute;
-  margin-top:-3.8vh;
+  margin-top:-3.5vh;
 }
 .recherche {
-  margin-left: 23vw;
-  width:75vw;
+  margin-left: 30vw;
+  width:40vw;
   height:5vh;
   border-radius: 10px;
   position:absolute;
