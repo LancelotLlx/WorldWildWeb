@@ -1,5 +1,6 @@
 body {
-    background-image: url(www.png);
+    background-image: url(background.png);
+    background-repeat:repeat;
 }
 
 .titre {
@@ -48,4 +49,10 @@ body {
 .Actualite h1 {
     text-align: center;
     text-decoration: underline;
+}
+
+.meteo {
+    margin-top: 15vh;
+    margin-left: 28vw;
+    position: absolute;
 }
