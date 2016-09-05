@@ -1,11 +1,11 @@
 body {
-    background-image: url(background.png);
+    background-image: url(ww3.png);
     background-repeat:repeat;
 }
 
 .titre {
-    font-family: 'Sigmar One', cursive;
-    font-size: 1.2em;
+    font-family: 'Baloo Tamma', cursive;
+    font-size: 1.6em;
     color: #FBB117;
     height: 10vh;
     width: 23vw;
